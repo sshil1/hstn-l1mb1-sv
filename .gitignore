@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+# never commit raw reads, alignments or credentials
+*.bam
+*.cram
+*.fastq*
+*.fq*
+*.vcf.gz
+.env
+*.pem
+id_*

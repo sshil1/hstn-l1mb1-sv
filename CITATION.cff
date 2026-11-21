@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the manuscript and this archive."
+title: "Code and supplementary tables for: Sequence-level characterization of an L1MB1-associated intronic structural variant in bovine HSTN across indicine and taurine cattle genomes"
+type: software
+license: MIT
+authors:
+  - family-names: Shil
+    given-names: Sharadindu
+    orcid: "https://orcid.org/0000-0002-6167-2244"
+    affiliation: "Genomics and Molecular Biology Laboratory (GMBL), Paschimbanga Go Sampad Bikash Sanstha (PBGSBS), Kalyani, West Bengal, India"
+  - family-names: Koner
+    given-names: Gouri Shankar
+    affiliation: "Genomics and Molecular Biology Laboratory (GMBL), PBGSBS, Kalyani, West Bengal, India"
+  - family-names: Debnath
+    given-names: Anusuya
+    affiliation: "Department of Biotechnology, Brainware University, Barasat, West Bengal, India"
+  - family-names: Mandal
+    given-names: Ajoy
+    affiliation: "ICAR-National Dairy Research Institute, Eastern Regional Station, Kalyani, West Bengal, India"
+repository-code: "https://github.com/sshil1/hstn-l1mb1-sv"
+version: "1.0.0"
+date-released: "2026-11-21"

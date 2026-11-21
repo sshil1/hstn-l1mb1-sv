@@ -1,0 +1,20 @@
+sample	REF_junction	ALT_left_728	ALT_left_729like	ALT_right_shared	genotype_85463962	DP_85463962	AD_85463962	genotype_85464601	DP_85464601	AD_85464601	review_note
+DJ44	5	0	0	0	G/G	8	8	G/G	10	9	Reference-junction support previously observed; limited coverage
+Gir_383	0	0	2	0	G/G	13	13	G/G	14	14	Right support recovered by local realignment; exact right count zero
+Gir_390	0	3	0	8	G/G	12	12	G/G	14	14	
+Gir_713	0	0	3	7	G/G	18	18	G/G	12	12	
+Gir_885	0	2	3	7	G/G	14	14	G/G	9	9	Both left signatures detected; full allele genotype unresolved
+Gir_890	0	0	1	3	G/G	23	23	G/G	15	15	
+Sahiwal_21	0	3	0	5	G/G	25	25	G/G	21	21	
+Sahiwal_231	0	1	0	5	G/G	10	10	G/G	11	11	
+Sahiwal_247	0	0	2	3	G/G	14	14	G/G	10	10	
+Sahiwal_27	0	7	0	7	G/G	24	24	G/G	17	17	
+Sahiwal_451	0	0	2	4	G/G	9	9	G/G	11	11	
+Sahiwal_605	0	3	0	4	G/G	14	14	G/G	16	16	
+Sahiwal_804	0	0	2	2	G/G	12	12	G/G	16	16	
+Sahiwal_808	0	0	1	4	G/G	15	15	G/G	13	13	
+Tharparkar_04	0	0	3	7	G/G	21	21	G/G	11	11	
+Tharparkar_06	0	1	0	5	G/G	18	18	G/G	9	9	
+Tharparkar_09H	0	0	1	3	G/G	20	20	G/G	17	17	
+Tharparkar_17	1	0	2	7	G/G	34	34	G/G	22	22	Reviewed reference fragment plus insertion evidence; candidate heterozygote
+Tharparkar_19	0	0	2	4	G/G	17	17	G/G	9	9	

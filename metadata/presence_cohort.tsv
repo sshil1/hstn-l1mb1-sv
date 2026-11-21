@@ -1,0 +1,16 @@
+sample	presence_GT	caller_allele_classes	FT	JSON_GQ	DP	note
+Tharparkar_17	1/1	ALT/ALT	GQ	33	17	Technical accounting checked; biological genotype requires evidence review
+Gir_885	1/1	ALT/ALT	PASS	20	23	Technical accounting checked; biological genotype requires evidence review
+Gir_390	1/1	ALT/ALT	PASS	22	22	Technical accounting checked; biological genotype requires evidence review
+Gir_383	1/1	ALT/ALT	GQ	23	9	Technical accounting checked; biological genotype requires evidence review
+Gir_713	1/1	ALT/ALT	PASS	29	24	Technical accounting checked; biological genotype requires evidence review
+Gir_890	1/1	ALT/ALT	PASS	16	18	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_231	1/1	ALT/ALT	GQ	38	14	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_451	1/1	ALT/ALT	GQ	17	7	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_605	1/1	ALT/ALT	PASS	22	22	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_804	1/1	ALT/ALT	GQ	23	9	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_808	1/1	ALT/ALT	PASS	16	16	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_04	1/1	ALT/ALT	PASS	25	25	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_06	1/1	ALT/ALT	PASS	20	24	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_09H	1/1	ALT/ALT	PASS	17	16	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_19	1/1	ALT/ALT	PASS	20	17	Technical accounting checked; biological genotype requires evidence review

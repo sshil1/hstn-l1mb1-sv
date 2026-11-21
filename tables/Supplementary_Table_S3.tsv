@@ -1,0 +1,20 @@
+sample_label	exact_REF_junction	exact_ALT_left_728	exact_ALT_left_729like	exact_ALT_right_shared	SNP_85463962_GT	SNP_85463962_DP	SNP_85463962_AD	SNP_85464601_GT	SNP_85464601_DP	SNP_85464601_AD	graph_GT	graph_allele_classes	graph_FT	graph_GQ	graph_DP	left_bp_REF_reads	left_bp_INS_reads	left_bp_GQ	left_bp_filter	right_bp_REF_reads	right_bp_INS_reads	right_bp_GQ	right_bp_filter	strict_REF_fragments	strict_INS_left_fragments	strict_INS_right_fragments	strict_conflicts	review_status	review_note	presence_note
+DJ44	5	0	0	0	G/G	8	8	G/G	10	9	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Reference-junction support previously observed; limited coverage	NA
+Gir_383	0	0	2	0	G/G	13	13	G/G	14	14	1/1	ALT/ALT	GQ	23	9	0	9	23	NA	0	4	9	GQ	0	3	1	0	insertion_supported_zygosity_unresolved	Right support recovered by local realignment; exact right count zero	Technical accounting checked; biological genotype requires evidence review
+Gir_390	0	3	0	8	G/G	12	12	G/G	14	14	1/1	ALT/ALT	PASS	22	22	0	9	22	NA	0	13	34	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Gir_713	0	0	3	7	G/G	18	18	G/G	12	12	1/1	ALT/ALT	PASS	29	24	0	13	35	NA	0	11	29	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Gir_885	0	2	3	7	G/G	14	14	G/G	9	9	1/1	ALT/ALT	PASS	20	23	0	8	20	NA	0	15	41	NA	NA	NA	NA	NA	NA	Both left signatures detected; full allele genotype unresolved	Technical accounting checked; biological genotype requires evidence review
+Gir_890	0	0	1	3	G/G	23	23	G/G	15	15	1/1	ALT/ALT	PASS	16	18	0	7	16	NA	0	11	28	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_21	0	3	0	5	G/G	25	25	G/G	21	21	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Sahiwal_231	0	1	0	5	G/G	10	10	G/G	11	11	1/1	ALT/ALT	GQ	38	14	0	4	9	GQ	0	14	38	NA	0	0	6	0	incomplete_or_insufficient_strict_evidence	NA	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_247	0	0	2	3	G/G	14	14	G/G	10	10	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Sahiwal_27	0	7	0	7	G/G	24	24	G/G	17	17	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Sahiwal_451	0	0	2	4	G/G	9	9	G/G	11	11	1/1	ALT/ALT	GQ	17	7	0	4	8	GQ	0	7	17	NA	0	2	4	0	insertion_supported_zygosity_unresolved	NA	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_605	0	3	0	4	G/G	14	14	G/G	16	16	1/1	ALT/ALT	PASS	22	22	0	9	22	NA	0	13	34	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_804	0	0	2	2	G/G	12	12	G/G	16	16	1/1	ALT/ALT	GQ	23	9	0	9	23	NA	0	2	4	GQ	0	2	1	0	insertion_supported_zygosity_unresolved	NA	Technical accounting checked; biological genotype requires evidence review
+Sahiwal_808	0	0	1	4	G/G	15	15	G/G	13	13	1/1	ALT/ALT	PASS	16	16	0	7	16	NA	0	9	22	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_04	0	0	3	7	G/G	21	21	G/G	11	11	1/1	ALT/ALT	PASS	25	25	0	10	25	NA	0	15	40	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_06	0	1	0	5	G/G	18	18	G/G	9	9	1/1	ALT/ALT	PASS	20	24	0	8	20	NA	0	16	44	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_09H	0	0	1	3	G/G	20	20	G/G	17	17	1/1	ALT/ALT	PASS	17	16	0	9	23	NA	0	7	17	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_17	1	0	2	7	G/G	34	34	G/G	22	22	1/1	ALT/ALT	GQ	33	17	1	6	5	GQ	1	16	33	NA	1	2	9	0	reference_and_insertion_supported_candidate_heterozygote	Reviewed reference fragment plus insertion evidence; candidate heterozygote	Technical accounting checked; biological genotype requires evidence review
+Tharparkar_19	0	0	2	4	G/G	17	17	G/G	9	9	1/1	ALT/ALT	PASS	20	17	0	8	20	NA	0	9	23	NA	NA	NA	NA	NA	NA	NA	Technical accounting checked; biological genotype requires evidence review

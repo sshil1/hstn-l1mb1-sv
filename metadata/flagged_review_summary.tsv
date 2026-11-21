@@ -1,0 +1,6 @@
+sample	original_GT	original_FT	REF_fragments	INS_left_fragments	INS_right_fragments	conflicts	status
+Tharparkar_17	1/1	GQ	1	2	9	0	reference_and_insertion_supported_candidate_heterozygote
+Gir_383	1/1	GQ	0	3	1	0	insertion_supported_zygosity_unresolved
+Sahiwal_231	1/1	GQ	0	0	6	0	incomplete_or_insufficient_strict_evidence
+Sahiwal_451	1/1	GQ	0	2	4	0	insertion_supported_zygosity_unresolved
+Sahiwal_804	1/1	GQ	0	2	1	0	insertion_supported_zygosity_unresolved
