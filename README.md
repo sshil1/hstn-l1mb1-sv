@@ -3,7 +3,7 @@
 Code and supplementary tables for the manuscript *Sequence-level characterization of an L1MB1-associated intronic structural variant in bovine HSTN across indicine and taurine cattle genomes*.
 
 ## Contents
-- `tables/` Supplementary Tables S1 (19 animals, accessions), S2 (39 assemblies, flank-anchored screen) and S3 (per-animal evidence).
+- `tables/` Supplementary Tables S1 (19 animals, accessions), S2 (39 assemblies, flank-anchored screen), S3 (per-animal evidence) and Supplementary File S4 (candidate model FASTA).
 - `metadata/` Input tables used to build S1 and S3 (accessions and derived counts only; no raw reads).
 - `scripts/make_s1.py`, `scripts/make_s3.py` Rebuild S1 and S3 from `metadata/`.
 - `scripts/sv_locus_scan.py` Read-only scanner that looks for chr6 coordinates inside a locus window in supplementary SV tables (no network, exec or write calls).
@@ -27,3 +27,7 @@ MIT. See `LICENSE`.
 
 ## Assembly screen (S2)
 `scripts/asm_screen/` holds the flank-anchored minimap2 screen used for S2 (`run_all.sh` calls `classify_asm.sh`; `classify_outgroup.sh`, `compare_models.sh`, `extract_locus.py` and `snp_in_assemblies.py` produce the outgroup, model-comparison and SNP columns). The scripts use the authors' server paths (`/data/hstn_negctrl/asm_scan`, `/data/cattle_zebu/asm`); edit these to your layout. Download the 39 assemblies from NCBI using the accessions in `inputs/asm_list.tsv`. Inputs: `inputs/ARSUCD2_window.fa` (NC_037333.1:85462323-85466324) and `inputs/flanks.fa`. Requires minimap2.
+
+## Release notes
+- v1.0.1: adds `tables/Supplementary_File_S4_candidate_models.fa` (REF, INS_728 and INS_729 local sequences) and its test.
+- v1.0.0: initial release.
